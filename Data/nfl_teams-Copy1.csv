@@ -1,0 +1,33 @@
+stadium_name,stadium_location,team_name,team_name_short,team_id,team_id_pfr,team_conference,team_division,team_conference_pre2002,team_division_pre2002,stadium_surface,stadium_weather_type,stadium_type,stadium_capacity
+State Farm Stadium,"Glendale, AZ",Arizona Cardinals,Cardinals,ARI,CRD,NFC,NFC West,NFC,NFC West,Hellas Matrix Turf,warm,outdoor,70240
+Mercedes-Benz Stadium,"Atlanta, GA",Atlanta Falcons,Falcons,ATL,ATL,NFC,NFC South,NFC,NFC West,FieldTurf,moderate,indoor,31000
+M&T Bank Stadium,"Baltimore, MD",Baltimore Ravens,Ravens,BAL,RAV,AFC,AFC North,AFC,AFC Central,Grass,moderate,outdoor,69143
+Highmark Stadium,"Orchard Park, NY",Buffalo Bills,Bills,BUF,BUF,AFC,AFC East,AFC,AFC East,Grass,warm,outdoor,65326
+Bank of America Stadium,"Charlotte, NC",Carolina Panthers,Panthers,CAR,CAR,NFC,NFC South,NFC,NFC West,Grass,moderate,outdoor,73778
+Soldier Field,"Chicago, IL",Chicago Bears,Bears,CHI,CHI,NFC,NFC North,NFC,NFC Central,Grass,moderate,outdoor,95542
+Paul Brown Stadium,"Cincinnati, OH",Cincinnati Bengals,Bengals,CIN,CIN,AFC,AFC North,AFC,AFC Central,Grass,moderate,retractable,69143
+FirstEnergy Stadium,"Cleveland, OH",Cleveland Browns,Browns,CLE,CLE,AFC,AFC North,AFC,AFC Central,Grass,moderate,outdoor,79000
+AT&T Stadium,"Arlington, TX",Dallas Cowboys,Cowboys,DAL,DAL,NFC,NFC East,NFC,NFC East,FieldTurf,indoor,outdoor,80000
+Empower Field at Mile High,"Denver, CO",Denver Broncos,Broncos,DEN,DEN,AFC,AFC West,AFC,AFC West,Grass,cold,outdoor,76125
+Ford Field,"Detroit, MI",Detroit Lions,Lions,DET,DET,NFC,NFC North,NFC,NFC Central,Grass,cold,outdoor,37755
+Lambeau Field,"Green Bay, WI",Green Bay Packers,Packers,GB,GNB,NFC,NFC North,NFC,NFC Central,Grass,warm,outdoor,65326
+NRG Stadium,"Houston, TX",Houston Texans,Texans,HOU,HTX,AFC,AFC South,AFC,AFC South,Grass,cold,outdoor,76125
+Lucas Oil Stadium,"Indianapolis, IN",Indianapolis Colts,Colts,IND,CLT,AFC,AFC South,AFC,AFC East,Grass,warm,outdoor,93605
+TIAA Bank Field,"Jacksonville, FL",Jacksonville Jaguars,Jaguars,JAX,JAX,AFC,AFC South,AFC,AFC Central,Grass,warm,outdoor,53599
+GEHA Field at Arrowhead Stadium,"Kansas City, MO",Kansas City Chiefs,Chiefs,KC,KAN,AFC,AFC West,AFC,AFC West,Grass,moderate,outdoor,51500
+Allegiant Stadium,"Paradise, NV",Las Vegas Raiders,Raiders,LVR,RAI,AFC,AFC West,AFC,AFC West,Grass,indoor,outdoor,65000
+SoFi Stadium,"Inglewood, CA",Los Angeles Chargers,Chargers,LAC,SDG,AFC,AFC West,AFC,AFC West,AstroTurf,indoor,retractable,53506
+SoFi Stadium,"Inglewood, CA",Los Angeles Rams,Rams,LAR,RAM,NFC,NFC West,NFC,NFC West,AstroTurf,indoor,outdoor,53506
+Hard Rock Stadium,"Miami Gardens, FL",Miami Dolphins,Dolphins,MIA,MIA,AFC,AFC East,AFC,AFC East,FieldTurf,cold,indoor,82500
+U.S. Bank Stadium,"Minneapolis, MN",Minnesota Vikings,Vikings,MIN,MIN,NFC,NFC North,NFC,NFC Central,Grass,cold,outdoor,102321
+Gillette Stadium,"Foxborough, MA",New England Patriots,Patriots,NE,NWE,AFC,AFC East,AFC,AFC East,FieldTurf,warm,outdoor,71250
+Caesars Superdome,"New Orleans, LA",New Orleans Saints,Saints,NO,NOR,NFC,NFC South,NFC,NFC West,FieldTurf,indoor,outdoor,76468
+MetLife Stadium,"East Rutherford, NJ",New York Giants,Giants,NYG,NYG,NFC,NFC East,NFC,NFC East,Grass,moderate,outdoor,81500
+MetLife Stadium,"East Rutherford, NJ",New York Jets,Jets,NYJ,NYJ,AFC,AFC East,NFC,AFC East,Grass,moderate,outdoor,81500
+Lincoln Financial Field,"Philadelphia, PA",Philadelphia Eagles,Eagles,PHI,PHI,NFC,NFC East,NFC,NFC East,FieldTurf,warm,outdoor,71594
+Acrisure Stadium,"Pittsburgh, PA",Pittsburgh Steelers,Steelers,PIT,PIT,AFC,AFC North,AFC,AFC Central,Grass,cold,outdoor,65500
+Levi's Stadium,"Santa Clara, CA",San Francisco 49ers,49ers,SF,SFO,NFC,NFC West,NFC,NFC West,Grass,warm,indoor,9044
+Lumen Field,"Seattle, WA",Seattle Seahawks,Seahawks,SEA,SEA,NFC,NFC West,AFC,AFC West,FieldTurf,indoor,outdoor,76468
+Raymond James Stadium,"Tampa, FL",Tampa Bay Buccaneers,Buccaneers,TB,TAM,NFC,NFC South,NFC,NFC Central,FieldTurf,indoor,outdoor,80311
+Nissan Stadium,"Nashville, TN",Tennessee Titans,Titans,TEN,OTI,AFC,AFC South,AFC,AFC Central,Grass,cold,indoor,18200
+FedEx Field,"Landover, MD",Washington Commanders,Washington,WAS,WAS,NFC,NFC East,NFC,NFC East,Grass,moderate,outdoor,79000
