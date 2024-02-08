@@ -1,4 +1,4 @@
-# NFL Sports Betting: An Analysis of Factors that Affect how Sportsbooks set Game Spreads and Over/Under Totals
+# NFL Sports Betting :  An Analysis of Factors that Affect how Sportsbooks set Game Spreads and Over/Under Totals
 
 ### Repository Overview
 - All data used in this analysis can be found in the "Data" folder
