@@ -66,17 +66,71 @@ Most stadiums in the NFL are located in cold climates (48). It can be noted that
 ![Stadium Climates](Output-Data/Stadiums-Climate.png)
 
 
-## Stadium Field Type
+### Stadium Field Type
 
 The most popular type of field surface used by the NFL is grass, specifically Bermuda Grass. Only a small percentage of stadiums use various types of artifical turf.
 
 ![Stadium Field Type](Output-Data/Stadiums-Surface-Type.png)
 
-## Stadium Type 
+### Stadium Type 
 
 Almost all NFL stadiums are considered outdoor stadiums (no roof). It can be theorized that having stadiums that have a stationary or retractable roof are less popular due to extra cost.
 
 ![Stadium Type](Output-Data/Stadium-Types.png)
+
+
+## Team Summary 
+
+### Quick Facts 
+- There are a total of 32 teams in the NFL
+- There are two conferences (NFC and AFC)
+- Each conference is divided into four divisions with four teams in each
+
+### Team Climate
+Over half of the teams in the NFL play in moderate to warm climates. What skews this data are the number of teams who play in exlusively indoor stadiums 
+
+![Team Climate](Output-Data/Teams-Climate.png)
+
+### Home Stadium Field Type 
+Just like in the Stadium Field Type chart, most teams play on grass fields while the small percentage play any of the various types of artifical turf. 
+
+![Team Field](Output-Data/Team-Surface-Type.png)
+
+### Home Stadium Type
+An overwhelming majority of teams play in an outdoor stadium. This makes sense as over half of the teams play in moderate to warm climates.
+
+![Team Stadium](Output-Data/Team-Stadium-Type.png)
+
+### Combined Stadium Capacity by Division 
+When comparing the combined stadium capacities for each of the 8 divisions in the NFL, the NFC East is barely ahead of the NFC North (300,944 seats) and AFC East (300,576) divisions with the largest combined stadium capacity of 312,094 seats. 
+
+The division with the smallest total combined stadium capacity of only 209,258 seats.
+
+![Combined Capacity](Output-Data/Division_Combined_Capacity.png)
+
+## Betting Analysis - Owen Pollard
+
+### Defintions
+
+Spread Betting:
+- Where you wager on the margin of victory and the payout is based on the accuracy of the bet.
+- Example: or Superbowl 58, the SF 49ers are a 2- point favorite over the KC Chiefs. They are expected to win by 2 or more points
+
+Over/Under Betting:
+- A Total Bet aka “Bet” on the amount of points both teams will combine to more or less then the projected total.
+- Example: As of 2/6/24, BetMGM has the O/U for SB58 set at 47.5. They expect the Chiefs & 49ers to total 47.5 Points between them. If the score is 24-23, there would be a combined score of 47 ( which is under the line)
+
+### Temperature vs. Over/Under Totals
+According to the data there is a slight correlation between temperature and over/under totals. Warmer temperatures lead to slightly higher O/U tptals.
+
+![Temperature](Output-Data/Schedule-Temperature.png)
+![Temperature Regression](Output-Data/Schedule-Temperature-Regression.png)
+
+### Week of Season vs. Over/Under Totals
+There is no evidence that the week a game is played has any effect on the Over/Under Total.
+
+![Totals](Output-Data/Schedule-Totals.png)
+![Totals Regression](Output-Data/Schedule-Totals-Regression.png)
 
 
 
