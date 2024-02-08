@@ -44,7 +44,7 @@ The Kaggle Notebook included 3 data sets
 - Locate and drop un-needed columns
 
 
-## Stadium and Team Summaries 
+## Stadium and Team Summaries - Sheena Pickett
 
 ## Stadium Summary 
 
@@ -57,5 +57,29 @@ The Kaggle Notebook included 3 data sets
 
 74 stadiums (~62%) have a seating capacity of 50K to 75K. On both extremes, only 4 NFL stadiums have a seating capacity of less than 25K and only 2 NFL stadiums can sit between 100K to 125K spectators. 
 
-![Stadium Capacity Ranges](Output-Data/Stadium Capacity Ranges.png)
+![Stadium Capacity Ranges](Output-Data/Stadium-Capacity-Ranges.png)
+
+### Stadium Climate 
+
+Most stadiums in the NFL are located in cold climates (48). It can be noted that there is a significant number of fields where climate does not matter as they are closed-roof, indoor stadiums. 
+
+![Stadium Climates](Output-Data/Stadiums-Climate.png)
+
+
+## Stadium Field Type
+
+The most popular type of field surface used by the NFL is grass, specifically Bermuda Grass. Only a small percentage of stadiums use various types of artifical turf.
+
+![Stadium Field Type](Output-Data/Stadiums-Surface-Type.png)
+
+## Stadium Type 
+
+Almost all NFL stadiums are considered outdoor stadiums (no roof). It can be theorized that having stadiums that have a stationary or retractable roof are less popular due to extra cost.
+
+![Stadium Type](Output-Data/Stadium-Types.png)
+
+
+
+
+
 
