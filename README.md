@@ -47,7 +47,7 @@ The Kaggle Notebook included 3 data sets
 
 ## Stadium and Team Summaries - Sheena Pickett
 
-## Stadium Summary 
+### Stadium Summary 
 
 ### Quick Facts 
 - There are 120 stadiums that have historically be used by the NFL
@@ -80,7 +80,7 @@ Almost all NFL stadiums are considered outdoor stadiums (no roof). It can be the
 ![Stadium Type](Output-Data/Stadium-Types.png)
 
 
-## Team Summary 
+### Team Summary 
 
 ### Quick Facts 
 - There are a total of 32 teams in the NFL
