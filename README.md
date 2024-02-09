@@ -4,6 +4,7 @@
 - All data used in this analysis can be found in the "Data" folder
 - Individual files for each visualization and summary can be found in the "Output Data" folder
 - The script used to aggregate the data can be found in the folder labeled "NFL Betting Analysis"
+- Link to presentation: https://www.canva.com/design/DAF8C8SzbyA/NkdAK7MRdvNuGN-HHHwVLg/view?utm_content=DAF8C8SzbyA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### Background 
 With the legalization of sports betting spread across the country rapidly starting in 2018 when the Supreme Court overturned the Professional and Amateur Sports Protection Act (PASPA). The law effectively made sports betting legal in Nevada and a few other states. With the upcoming Superbowl LVIII (58); our project will focus on how various factors pertaining to how sportsbook set game spreads and over/under total.
