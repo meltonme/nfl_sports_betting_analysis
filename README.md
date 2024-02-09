@@ -105,7 +105,7 @@ An overwhelming majority of teams play in an outdoor stadium. This makes sense a
 ### Combined Stadium Capacity by Division 
 When comparing the combined stadium capacities for each of the 8 divisions in the NFL, the NFC East is barely ahead of the NFC North (300,944 seats) and AFC East (300,576) divisions with the largest combined stadium capacity of 312,094 seats. 
 
-The division with the smallest total combined stadium capacity of only 209,258 seats is the AFC West. 
+The division with the smallest total combined stadium capacity of only 209,258 seats is the NFC West. 
 
 ![Combined Capacity](Output-Data/Division_Combined_Capacity.png)
 
