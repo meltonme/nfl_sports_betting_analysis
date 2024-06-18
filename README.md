@@ -9,7 +9,7 @@
 ### Background 
 With the legalization of sports betting spread across the country rapidly starting in 2018 when the Supreme Court overturned the Professional and Amateur Sports Protection Act (PASPA). The law effectively made sports betting legal in Nevada and a few other states. With the upcoming Superbowl LVIII (58); our project will focus on how various factors pertaining to how sportsbook set game spreads and over/under total.
 
-## Technology Used and Data Cleaning Process - Miranda Melton
+## Technology Used and Data Cleaning Process 
 
 ### Data Location 
 The original datasets were found in a Kaggle Notebook called "NFL Scores and Betting Data" ("https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data"). 
@@ -45,7 +45,7 @@ The Kaggle Notebook included 3 data sets
 - Locate and drop un-needed columns
 
 
-## Stadium and Team Summaries - Sheena Pickett
+## Stadium and Team Summaries 
 
 ### Stadium Summary 
 
@@ -109,7 +109,7 @@ The division with the lowest total combined stadium capacity of only 209,258 sea
 
 ![Combined Capacity](Output-Data/Division_Combined_Capacity.png)
 
-## Betting Analysis - Owen Pollard
+## Betting Analysis 
 
 ### Defintions
 
